@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="caslify"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -35,7 +35,7 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/services">
+                      <Link className="navbar-item" to="/products">
                         Services
                       </Link>
                     </li>
@@ -96,6 +96,13 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
+        </div>
+        <div className="content has-text-centered"
+        style={{
+          fontSize: '10px',
+        }}
+        >
+          <p>©2020 Copyright All rights reserved. Crafted by Caslify.</p>
         </div>
       </footer>
     )

@@ -40,6 +40,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
+              <h4 className="content has-text-centered">Tell us about your project. Get a quick estimate and a plan for making it live.</h4>
               <form
                 name="contact"
                 method="post"
@@ -86,9 +87,25 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+
+                <div className="field">
+                  <label className="label" htmlFor={'project title'}>
+                    Project Title
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'project title'}
+                      name={'project title'}
+                      onChange={this.handleChange}
+                      id={'project title'}
+                      required={true}
+                    />
+                  </div>
+                </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Project Description
                   </label>
                   <div className="control">
                     <textarea
