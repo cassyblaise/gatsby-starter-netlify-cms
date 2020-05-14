@@ -6,6 +6,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import linkedin from '../img/social/linkedin.svg'
+import email from '../img/social/email.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -15,7 +16,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="caslify"
-            style={{ width: '14em', height: '10em' }}
+            style={{ width: '10em', height: '14em', }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -90,6 +91,14 @@ const Footer = class extends React.Component {
                   <img
                     src={linkedin}
                     alt="linkedin"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="email" href="mailto:info@caslify.com.ng">
+                
+                  <img 
+                    src={email}
+                    alt="email"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
