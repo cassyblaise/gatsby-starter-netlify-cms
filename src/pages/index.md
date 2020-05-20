@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great software is built by great teams
 image: /img/code.jpg
 heading: Great coffee with a conscience
 subheading: We help build and manage a team of world-class developers to bring
@@ -45,6 +45,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+
+        fffftffrdrddrrd
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
