@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import phone from '../img/phone.svg'
 import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
@@ -43,8 +44,8 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item">
               <img src={logo} alt="caslify" 
                   style={{ 
-                    width: '150px',
-                    height: '200px',
+                    width: '110px',
+                   
               }} />
             </Link>
             {/* Hamburger menu */}
@@ -75,9 +76,15 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
+              <a
+                className="navbar-item"
+                href="tel:+2347087573331"
+              >
+                <span className="icon">
+                  <img src={phone} alt="Phone" />
+                </span>
+                +2347087573331
+              </a>
             </div>
           </div>
         </div>
