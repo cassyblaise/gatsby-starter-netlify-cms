@@ -3,8 +3,7 @@ templateKey: index-page
 title: Great software is built by great teams
 image: /img/code.jpg
 heading: Great coffee with a conscience
-subheading: We help build and manage a team of world-class developers to bring
-  your vision to life
+subheading: We don't just build software, we build your business
 mainpitch:
   title: "Why Caslify"
   description: >

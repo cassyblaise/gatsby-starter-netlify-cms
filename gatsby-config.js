@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'caslify',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
-    author: 'caslify creative studio', 
+      'Caslify is a new age software development company. Build innovative custom software applications by hiring remote engineering teams that extend your team.',
+    author: 'Caslify creative studio', 
   },
   plugins: [
     'gatsby-plugin-react-helmet',
