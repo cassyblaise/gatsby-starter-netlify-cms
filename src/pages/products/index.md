@@ -1,16 +1,16 @@
 ---
-heading: Great coffee with a conscience
+heading: Our services
 path: /products
 templateKey: product-page
-title: Caslify
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: What can we do For your business
+image: /img/applepc.jpg
+description: We are on a mission to help successful companies extend their tech
+  capabilities. We help companies become innovation leaders by delivering
+  on-demand software development teams and services to build impeccable digital
+  products.
 intro:
   blurbs:
-    - image: /img/coffee.png 
+    - image: /img/coffee.png
       title: our services
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -41,7 +41,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+    - image: /img/code.jpg
+      text: Love a great cup of coffee, but never knew how to make one? Bought a fancy
+        new Chemex but have no clue how to use it? Don't worry, we’re here to
+        help. You can schedule a custom 1-on-1 consultation with our baristas to
+        learn anything you want to know about coffee roasting and brewing. Email
+        us or call the store for details.
+  heading: What we offerskjhbgvvvg
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
