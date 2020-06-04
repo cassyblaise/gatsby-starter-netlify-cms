@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import {  Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
@@ -51,6 +51,13 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
+                <div className="columns" >
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="/contact" >
+                      Contact Us
+                    </Link>
+                  </div>
+                </div>
               <div className="columns">
                 <div className="column is-7">
                   <h2 className="has-text-weight-semibold is-size-3">

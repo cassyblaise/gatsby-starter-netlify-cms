@@ -2,19 +2,14 @@
 templateKey: index-page
 title: Great software is built by great teams
 image: /img/code.jpg
-heading: Great coffee with a conscience
+heading: Our Services
 subheading: We don't just build software, we build your business
 mainpitch:
   title: "Why Caslify"
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    We are not like any other web development company that leave once they are done creating your platform, we help build your business, we are partner that stick by you for over a long period of time and help your business grow with modern tech tools more than you thought it's possible.
+description: >
+  We are on a mission to help companies of any types and sizes to grow and move faster and also extend their tech capabilities. We help companies become innovation leaders by delivering on-demand software development teams and services to build impeccable digital products.
 intro:
   blurbs:
     - image: /img/coffee.png
