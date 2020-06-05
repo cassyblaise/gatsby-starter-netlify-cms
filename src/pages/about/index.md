@@ -3,9 +3,9 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
+# Shade-grown coffee
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.12
+Coffee is a small tree or shrub that grows in the forest under-story in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.12
 
 ### Single origin
 
@@ -17,7 +17,7 @@ Sustainable agriculture is farming in sustainable ways based on an understanding
 
 ### Direct sourcing
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentive quality.
 
 ### Reinvest profits
 
