@@ -7,7 +7,7 @@ subheading: We don't just build software, we build your business
 mainpitch:
   title: "Why Caslify"
   description: >
-    We are not like any other web development company that leave once they are done creating your platform, we help build your business, we are partner that stick by you for over a long period of time and help your business grow with modern tech tools more than you thought it's possible.
+    We are not like any other web development company that leave once they are done creating your platform, we are partner that help build your business, we stick by you for over a long period of time and help your business grow with modern tech tools more than you thought it's possible.
 description: >
   We are on a mission to help companies of any types and sizes to grow and move faster and also extend their tech capabilities. We help companies become innovation leaders by delivering on-demand software development teams and services to build impeccable digital products.
 intro:

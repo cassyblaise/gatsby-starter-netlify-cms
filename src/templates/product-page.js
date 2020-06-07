@@ -75,16 +75,18 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                     <div className="tile is-parent">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
+                     <article className="tile is-child">
+                       <PreviewCompatibleImage imageInfo={main.image2} />
                       </article>
-                    </div>
+                   </div>
                   </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
+                  {
+                  //<div className="tile is-parent">
+                    //<article className="tile is-child">
+                     // <PreviewCompatibleImage imageInfo={main.image3} />
+                    //</article>
+                  //</div> 
+                  }
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
