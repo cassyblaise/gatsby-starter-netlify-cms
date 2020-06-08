@@ -10,18 +10,18 @@ description: We are on a mission to help companies of any types and sizes
   development teams and services to build impeccable digital products.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/coffee-gear.png
       title: Api Integration and Development
       text: >
         Connect your digital tools and data with Api integration, cut down
         development time and cost by integrating APIs and system.
-    - image: /img/coffee-gear.png
+    - image: /img/webdesign.png
       title: Web Application Design and Development
       text: >
         We are innovative about what we do, we have helped several organizations
         to design and redesign their websites to improve performance, delivering
         high standards interfaces and products.
-    - image: /img/tutorials.png
+    - image: /img/coffee.png
       title: Mobile Application Design and Development
       text: >
         From B2B or B2C apps for enterprises, small businesses, and
@@ -78,10 +78,11 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/applepc.jpg
+full_image: /img/webdev.png
 pricing:
   heading: Principles that Guide Us
-  description: At Caslify we have principles that guide us as a team
+  description: At Caslify we have principles that guide us as a team, The roots of
+    our success are connected to our vision and execution of it.
   plans:
     - description: At caslify our team is responsible for the highest quality of
         services, practicability and efficiency of the decisions made during the
