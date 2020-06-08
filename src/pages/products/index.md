@@ -80,30 +80,35 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/applepc.jpg
 pricing:
-  heading: Monthly subscriptions mission
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Principles that Guide Us
+  description: At Caslify we have principles that guide us as a team
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: At caslify our team is responsible for the highest quality of
+        services, practicability and efficiency of the decisions made during the
+        development process, and for the realization of those obligations.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Responsibility
       price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+    - description: We are committed to the professional performance of our
+        obligations, based on a profound knowledge and understanding of the
+        software development process, rich experience, and compliance with
+        safety.
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: Professionalism
       price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: We are dedicated to client satisfaction and strive to build
+        long-term relationships with them. So, we provide close communication
+        and customer support through the whole process of software development.
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Efficiency & Communication
       price: ??
 ---
