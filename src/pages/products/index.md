@@ -64,10 +64,10 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/coffee-gear.png
+    image: /img/undraw_web.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/undraw_around_the_world.png
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
@@ -78,7 +78,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/undraw_work_chat.png
+full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
   description: At Caslify we have principles that guide us as a team, The roots of
