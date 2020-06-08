@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-![](/img/vision.png)
+![a lady standing up](/img/vision.png "about us")
 
 ### Who We Are
 
