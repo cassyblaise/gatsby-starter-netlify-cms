@@ -10,18 +10,18 @@ description: We are on a mission to help companies of any types and sizes
   development teams and services to build impeccable digital products.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/apidev.png
       title: Api Integration and Development
       text: >
         Connect your digital tools and data with Api integration, cut down
         development time and cost by integrating APIs and system.
-    - image: /img/webdesign.png
+    - image: /img/search-engines-amico.png
       title: Web Application Design and Development
       text: >
         We are innovative about what we do, we have helped several organizations
         to design and redesign their websites to improve performance, delivering
         high standards interfaces and products.
-    - image: /img/coffee.png
+    - image: /img/webdev2.png
       title: Mobile Application Design and Development
       text: >
         From B2B or B2C apps for enterprises, small businesses, and
@@ -29,21 +29,21 @@ intro:
         Android app development, native iOS app development, hybrid and
         cross-platform app development services to build next-gen mobile
         applications using the latest technology stack.
-    - image: /img/meeting-space.png
+    - image: /img/seo.jpg
       title: Chatbox Design and Development
       text: >
         We provide our clients with a full range of chatbot services, that help
         companies with visual assistance. Replace other systems and use one
         communication platform to save time and money. Create a user support
         helpdesk, answer customer queries and convert leads.
-    - image: /img/meeting-space.png
+    - image: /img/webdev2.png
       title: Branding
       text: >
         Branding is more of perception, But it is our responsibility to help
         develop your brand identity and brand image to meet standards. We create
         unique logos, business cards and other stationery materials that reflect
         your values.
-    - image: /img/code.jpg
+    - image: /img/creation-process-amico.png
       title: Digital Market/SEO
       text: >
         We can help your reach your target audience and generate lead on social
@@ -78,7 +78,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/webdev.png
+full_image: /img/undraw_work_chat.png
 pricing:
   heading: Principles that Guide Us
   description: At Caslify we have principles that guide us as a team, The roots of
