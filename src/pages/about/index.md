@@ -3,12 +3,11 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-![a lady standing up](/img/vision.png)
+![a lady standing up](/img/undraw_around_the_world.png)
 
 ### Who We Are
 
-We are an agile team of experts with tons of experience, Our team consists of such professionals as software engineers, designers and digital marketers with rich experience in various technical domains. We are a small team and choose to work remotely from anywhere in the world, we like it that way. It gives us the ability to turn on a dime, deliver projects quickly, and dedicate all our attention to your project.
-We successfully combine our team spirit, mutual support, creative thinking to deliver the most efficient software solutions using modern  tech tools.
+We are an agile team of experts with tons of experience, Our team consists of such professionals as software engineers, designers and digital marketers with rich experience in various technical domains. We are a small team and choose to work remotely from anywhere in the world, we like it that way. It gives us the ability to turn on a dime, deliver projects quickly, and dedicate all our attention to your project. We successfully combine our team spirit, mutual support, creative thinking to deliver the most efficient software solutions using modern  tech tools.
 
 ### What We Do
 
