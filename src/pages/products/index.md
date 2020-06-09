@@ -81,16 +81,13 @@ testimonials:
 full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
-  description: At Caslify we have principles that guide us as a team, The roots of
-    our success are connected to our vision and execution of it.
+  description: At Caslify we have principles that guide us as a team, The roots of our success are connected to our principles, vision and execution of it.
   plans:
     - description: At caslify our team is responsible for the highest quality of
         services, practicability and efficiency of the decisions made during the
         development process, and for the realization of those obligations.
       items:
         - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
       plan: Responsibility
       price: "50"
     - description: We are committed to the professional performance of our
@@ -99,8 +96,6 @@ pricing:
         safety.
       items:
         - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
       plan: Professionalism
       price: "80"
     - description: We are dedicated to client satisfaction and strive to build
