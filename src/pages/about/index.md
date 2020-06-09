@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
-![a lady standing up](/img/undraw_around_the_world.png)
+![a lady standing up](/img/buildweb.png)
 
 ### Who We Are
 
