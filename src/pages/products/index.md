@@ -3,7 +3,7 @@ heading: Our services
 path: /products
 templateKey: product-page
 title: What can we do For your business
-image: /img/applepc.jpg
+image: /img/applepc2.jpg
 description: We are on a mission to help companies of any types and sizes
   to    grow and move faster and also extend their tech capabilities. We help
   companies become innovation leaders by delivering on-demand software
@@ -15,13 +15,13 @@ intro:
       text: >
         Connect your digital tools and data with Api integration, cut down
         development time and cost by integrating APIs and system.
-    - image: /img/search-engines-amico.png
+    - image: /img/webdesktop.png
       title: Web Application Design and Development
       text: >
         We are innovative about what we do, we have helped several organizations
         to design and redesign their websites to improve performance, delivering
         high standards interfaces and products.
-    - image: /img/webdev2.png
+    - image: /img/ios.png
       title: Mobile Application Design and Development
       text: >
         From B2B or B2C apps for enterprises, small businesses, and
@@ -29,21 +29,21 @@ intro:
         Android app development, native iOS app development, hybrid and
         cross-platform app development services to build next-gen mobile
         applications using the latest technology stack.
-    - image: /img/seo.jpg
+    - image: /img/kindchatbot.png
       title: Chatbox Design and Development
       text: >
         We provide our clients with a full range of chatbot services, that help
         companies with visual assistance. Replace other systems and use one
         communication platform to save time and money. Create a user support
         helpdesk, answer customer queries and convert leads.
-    - image: /img/webdev2.png
+    - image: /img/branding.jpg
       title: Branding
       text: >
         Branding is more of perception, But it is our responsibility to help
         develop your brand identity and brand image to meet standards. We create
         unique logos, business cards and other stationery materials that reflect
         your values.
-    - image: /img/creation-process-amico.png
+    - image: /img/seo.jpg
       title: Digital Market/SEO
       text: >
         We can help your reach your target audience and generate lead on social
@@ -81,7 +81,8 @@ testimonials:
 full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
-  description: At Caslify we have principles that guide us as a team, The roots of our success are connected to our principles, vision and execution of it.
+  description: At Caslify we have principles that guide us as a team, The roots of
+    our success are connected to our principles, vision and execution of it.
   plans:
     - description: At caslify our team is responsible for the highest quality of
         services, practicability and efficiency of the decisions made during the
