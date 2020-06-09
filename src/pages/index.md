@@ -23,13 +23,13 @@ intro:
       text: >
         Connect your digital tools and data with Api integration, cut down
         development time and cost by integrating APIs and system.
-    - image: /img/search-engines-amico.png
+    - image: /img/webdesktop.png
       title: Web Application Design and Development
       text: >
         We are innovative about what we do, we have helped several organizations
         to design and redesign their websites to improve performance, delivering
         high standards interfaces and products.
-    - image: /img/mobile.png
+    - image: /img/ios.png
       title: Mobile Application Design and Development
       text: >
         From B2B or B2C apps for enterprises, small businesses, and
@@ -37,7 +37,7 @@ intro:
         Android app development, native iOS app development, hybrid and
         cross-platform app development services to build next-gen mobile
         applications using the latest technology stack.
-    - image: /img/undraw_work_chat.png
+    - image: /img/kindchatbot.png
       title: Chatbox Design and Development
       text: >
         We provide our clients with a full range of chatbot services, that help
