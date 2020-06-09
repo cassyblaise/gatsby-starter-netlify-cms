@@ -67,7 +67,7 @@ main:
     image: /img/ray.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/weboffice.png
+    image: /img/webcode.png
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
@@ -78,7 +78,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/raywall.png
+full_image: /img/vitus.png
 pricing:
   heading: Principles that Guide Us
   description: At Caslify we have principles that guide us as a team, The roots of
