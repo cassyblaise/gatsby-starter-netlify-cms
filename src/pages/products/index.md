@@ -78,7 +78,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/vitus.png
+full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
   description: At Caslify we have principles that guide us as a team, The roots of
