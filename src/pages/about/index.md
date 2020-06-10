@@ -21,6 +21,7 @@ Engineering is the foundation of our work. We create, design and build web appli
 
 Integrity is our core value and is at the center of everything we do. For us, It is about delivering on our commitments, honesty and fairness in business and day-to-day living. 
 
-### Reinvest profits
+### Our Mission 
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Our mission is not just to create software. We help improve and bring your business online through custom software  solutions. The greatest achievement for us is to make maximum profit for your business. 
+We help companies of any types and sizes to grow and move faster and also extend their tech capabilities.
