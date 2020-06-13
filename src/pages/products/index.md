@@ -3,7 +3,7 @@ heading: Our services
 path: /products
 templateKey: product-page
 title: What can we do For your business
-image: /img/closeup-photo-of-black-and-blue-keyboard-1194713-compressed.jpg
+image: /img/two-computer-flat-screen-monitors-turned-on.jpg
 description: We are on a mission to help companies of any types and sizes
   to    grow and move faster and also extend their tech capabilities. We help
   companies become innovation leaders by delivering on-demand software
