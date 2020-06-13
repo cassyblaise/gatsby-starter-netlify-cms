@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great software is built by great teams
-image: /img/two-computer-flat-screen-monitors-turned-on-777001-1-.jpg
+image: /img/apple-devices-book.jpg
 heading: Our Services
 subheading: We don't just build software, we build your business
 mainpitch:
