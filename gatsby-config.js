@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'caslify',
     description:
-      'Caslify is a new age software development company. Build innovative custom software applications by hiring remote engineering teams that extend your team.',
+      'Caslify is a new age software development company. We help improve and bring your business online through custom software solutions.',
     author: 'Caslify creative studio', 
   },
   plugins: [
