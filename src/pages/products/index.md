@@ -3,7 +3,7 @@ heading: Our services
 path: /products
 templateKey: product-page
 title: What can we do For your business
-image: /img/applepc2.jpg
+image: /img/closeup-photo-of-black-and-blue-keyboard-1194713-compressed.jpg
 description: We are on a mission to help companies of any types and sizes
   to    grow and move faster and also extend their tech capabilities. We help
   companies become innovation leaders by delivering on-demand software
@@ -58,7 +58,8 @@ intro:
 main:
   heading: Our Vision
   description: >
-    Using modern tech tools to create a better, fast, high-performing and safe apps for everyone.
+    Using modern tech tools to create a better, fast, high-performing and safe
+    apps for everyone.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/ray.png
