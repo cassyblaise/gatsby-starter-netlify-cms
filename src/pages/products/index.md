@@ -3,7 +3,7 @@ heading: Our services
 path: /products
 templateKey: product-page
 title: What can we do For your business
-image: /img/web.jpg
+image: /img/desk.png
 description: We are on a mission to help companies of any types and sizes
   to    grow and move faster and also extend their tech capabilities. We help
   companies become innovation leaders by delivering on-demand software
