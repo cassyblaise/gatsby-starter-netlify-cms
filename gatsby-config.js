@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'caslify',
     description:
-      'Caslify is a new age software development company. We help improve and bring your business online through fast, secure, scalable and SEO-friendly websites, web apps, and e-commerce apps.',
+      'Caslify is a new age software development company. We help improve and bring your business online through fast, secure, scalable and SEO-friendly websites, web apps, e-commerce apps and also chatbots.',
     author: 'Caslify creative studio', 
   },
   plugins: [
