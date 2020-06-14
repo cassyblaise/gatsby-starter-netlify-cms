@@ -3,7 +3,7 @@ heading: Our services
 path: /products
 templateKey: product-page
 title: What can we do For your business
-image: /img/two-computer-flat-screen-monitors-turned-on.jpg
+image: /img/web.jpg
 description: We are on a mission to help companies of any types and sizes
   to    grow and move faster and also extend their tech capabilities. We help
   companies become innovation leaders by delivering on-demand software
@@ -70,9 +70,9 @@ main:
     alt: Coffee beans
     image: /img/webprocess1.png
 testimonials:
-  - author: Mania infunaya 
-            CEO Flourish Beauty Care
-    quote: Caslify is highly proactive; they sought feedback early on and have adapted their workflow to our needs.
+  - author: Mania infunaya CEO Flourish Beauty Care
+    quote: Caslify is highly proactive; they sought feedback early on and have
+      adapted their workflow to our needs.
   - author: Philipp Trommler
     quote: Caslify the place to go if you want the best quality website. I love
       their stance on empowering biz owner and transparency.
