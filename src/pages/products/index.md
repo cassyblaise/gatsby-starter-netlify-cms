@@ -70,12 +70,12 @@ main:
     alt: Coffee beans
     image: /img/webprocess1.png
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+  - author: Mania infunaya 
+            CEO Flourish Beauty Care
+    quote: Caslify is highly proactive; they sought feedback early on and have adapted their workflow to our needs.
   - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: Caslify the place to go if you want the best quality website. I love
+      their stance on empowering biz owner and transparency.
 full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
