@@ -70,7 +70,7 @@ main:
     alt: Coffee beans
     image: /img/webprocess1.png
 testimonials:
-  - author: Mania infunaya CEO Flourish Beauty Care
+  - author: Fumnanya Cynthia Manah CEO Flourish Beauty Care
     quote: Caslify is highly proactive; they sought feedback early on and have
       adapted their workflow to our needs.
   - author: Philipp Trommler
