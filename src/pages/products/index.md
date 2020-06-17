@@ -76,7 +76,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Caslify the place to go if you want the best quality website. I love
       their stance on empowering biz owner and transparency.
-full_image: /img/undraw_work_chat.png
+full_image: /img/vision.png
 pricing:
   heading: Principles that Guide Us
   description: At Caslify we have principles that guide us as a team, The roots of
