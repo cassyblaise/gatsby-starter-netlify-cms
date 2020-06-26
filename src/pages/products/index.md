@@ -61,13 +61,13 @@ main:
     Using modern tech tools to create a better, fast, high-performing and safe
     apps for everyone.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A blue ray line
     image: /img/ray.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Source code and a map locator
     image: /img/webcode.png
   image3:
-    alt: Coffee beans
+    alt: Web development process
     image: /img/webprocess1.png
 testimonials:
   - author: Fumnanya Cynthia Manah CEO Flourish Beauty Care
