@@ -21,6 +21,6 @@ Integrity is our core value and it is at the centre of everything we do. For us,
 
 We plan to keep up providing valuable resources, ideas about the web, businesses, design, branding and entrepreneurship. We are looking forward to this blog becoming a place where we can share some of our projects and give some insight into how we do things inside the studio.
 
-We also looking forward to working with business owners, individuals to help them bring that project to live. You can get in touch with us and learn more about what we can do for you and your business.
+We also looking forward to working with business owners, individuals to help them bring that project to live. You can [get in touch with us](https://caslify.com.ng/contact) and learn more about what we can do for you and your business.
 
    **Written By: [Obok Casimir](https://twitter.com/cassyjnr)**
