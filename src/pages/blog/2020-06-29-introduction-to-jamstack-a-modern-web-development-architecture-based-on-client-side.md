@@ -9,7 +9,9 @@ description: Why are websites today being created like they were 20years ago? In
 featuredpost: true
 featuredimage: /img/jamstack.webp
 tags:
-  - JAMstack  Tech
+  - JAMstack
+  - Tech
+  - Business
 ---
 ![monolithic architecture](/img/monolithic-architecture.png)
 
