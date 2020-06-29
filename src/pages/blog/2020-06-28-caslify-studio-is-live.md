@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Caslify Studio is live "
-date: 2020-06-27T23:21:29.727Z
+date: 2020-06-28T23:21:29.727Z
 description: Today, Caslify studio officially open its door for business.  In
   this very first blog, I'll like to give a quick introduction about us.
 featuredpost: false
@@ -9,7 +9,7 @@ featuredimage: /img/weboffice.png
 tags:
   - Entrepreneurship Technologies Business
 ---
-![ lady and a man sitting down](/img/weboffice.png)
+![](/img/weboffice.png)
 
 Caslify is a web development studio, our mission from day 0,  is to help companies of any types and sizes to grow and move faster and also extend their tech capabilities using modern tech tools. 
 
