@@ -1,7 +1,6 @@
 ---
 templateKey: blog-post
-title: "Introduction To Jamstack:  A Modern Web Development Architecture Based
-  On Client-side "
+title: "Introduction To Jamstack:  A Modern Web Development Architecture  "
 date: 2020-06-28T02:52:48.359Z
 description: Why are websites today being created like they were 20years ago? In
   a monolithic architecture way that would be insecure, slow and very expensive
