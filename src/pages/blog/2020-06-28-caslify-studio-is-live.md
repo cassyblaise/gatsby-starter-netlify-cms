@@ -7,7 +7,9 @@ description: Today, Caslify studio officially open its door for business.  In
 featuredpost: false
 featuredimage: /img/weboffice.png
 tags:
-  - Entrepreneurship Technologies Business
+  - Entrepreneurship
+  - Technologies
+  - Business
 ---
 ![](/img/weboffice.png)
 
@@ -21,4 +23,4 @@ We plan to keep up providing valuable resources, ideas about the web, businesses
 
 We also looking forward to working with business owners, individuals to help them bring that project to live. You can get in touch with us and learn more about what we can do for you and your business.
 
-   **Posted by Obok Casimir**
+   **Written By: [Obok Casimir](https://twitter.com/cassyjnr)**
