@@ -20,10 +20,9 @@ And countless developers of developers know the kind of headache they get when w
 
 In the past couple years we have witnessed a lot of changes in the tech ecosystem, tech tools like Javascript are more advance now, I think it will be right to say javascript is now the **"**king**"** when it comes to developing modern web apps, my reason is you can use javaScript to develop any application from mobile to desktop apps.  
 
-We are witnessing a rapid change in the tech sections companies are trying to meet up with impatience users. In this article, I'll discuss more on "JAMstack" the new and modern approaches to
-building websites that perform as fast as possible and why is it a better solution for web developers and clients(business owners).
+We are witnessing a rapid change in the tech sections companies are trying to meet up with impatience users. In this article, I'll discuss more on "JAMstack" the new and modern approaches to building websites that perform as fast as possible and why is it a better solution for web developers and clients(business owners).
 
-Ladies and gentlemen permit me to introduce to you, the new way of building modern web apps but wait for you may be thinking, what is this guy saying. Lately, JAMstack has become the emerging trend in the tech eco-system, the reason is JAMstack is revolutionising the way we think about development/workflow,  its provide us with the best practices and modern approaches toward developing a better performing, secure, and scalable web apps. which I'll explain better later.  
+Lately, JAMstack has become the emerging trend in the tech eco-system, the reason is JAMstack is revolutionising the way we think about development/workflow,  its provide us with the best practices and modern approaches toward developing a better performing, secure, and scalable web apps. which I'll explain better later.  
 
 ### WHAT IS JAMstack
 
@@ -108,8 +107,7 @@ Most JAMstack sites are powered by a static site generator. A static site genera
 
 ![Headless CMSs](/img/headless-cms.webp)
 
-This is a category of hosted services that provide a rich online interface for managing and editing content.  Content Management Systems are really great for managing user permissions, editor roles, “Headless” refers to the idea that these services manage only the content, leaving it up to the developer to determine how and where the site is built and hosted. that is a headless CMS decouples content management from your front-end and back-end.  Larger projects use a headless CMS as a central content store behind their entire collection of websites and mobile apps. 
-All headless CMS services provide an API that is used to pull the most recent content during the build step. I'll write about headless CMSs in my next article, for the meantime, you can read more about **[headless CMS](https://headlesscms.org).**
+This is a category of hosted services that provide a rich online interface for managing and editing content.  Content Management Systems are really great for managing user permissions, editor roles, “Headless” refers to the idea that these services manage only the content, leaving it up to the developer to determine how and where the site is built and hosted. that is a headless CMS decouples content management from your front-end and back-end.  Larger projects use a headless CMS as a central content store behind their entire collection of websites and mobile apps.  All headless CMS services provide an API that is used to pull the most recent content during the build step. I'll write about headless CMSs in my next article, for the meantime, you can read more about **[headless CMS](https://headlesscms.org).**
 
 ### Hosting and deployment
 
