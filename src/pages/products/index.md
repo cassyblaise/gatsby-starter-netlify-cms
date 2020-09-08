@@ -69,20 +69,19 @@ testimonials:
   - author: Fumnanya Cynthia Manah CEO Flourish Beauty Care
     quote: Caslify is highly proactive; they sought feedback early on and have
       adapted their workflow to our needs.
-  - author: Philipp Trommler
+  - author: Layoramb
     quote: Caslify the place to go if you want the best quality website. I love
       their stance on empowering biz owner and transparency.
 full_image: /img/undraw_web.png
 pricing:
   heading: Principles that Guide Us
-  description: At Caslify we have principles that guide us as a team, The roots of
-    our success are connected to our principles, vision and execution of it.
+  description: At Caslify we have principles that guide us as a team, The roots of our success are connected to our principles, vision and execution of it.
   plans:
     - description: At caslify our team is responsible for the highest quality of
         services, practicability and efficiency of the decisions made during the
         development process, and for the realization of those obligations.
       items:
-        - 3 lbs of coffee per month
+        - 
       plan: Responsibility
       price: "50"
     - description: We are committed to the professional performance of our
@@ -90,7 +89,7 @@ pricing:
         software development process, rich experience, and compliance with
         safety.
       items:
-        - 6 lbs of coffee per month
+        - 
       plan: Professionalism
       price: "80"
     - description: We are dedicated to client satisfaction and strive to build
